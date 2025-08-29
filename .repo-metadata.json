@@ -1,6 +1,6 @@
 {
-    "name": "google-api-python-client",
-    "name_pretty": "Google API Python Client",
+    "name": "google-api-python-client",  
+    "name_pretty": "Google API Python Clihent",
     "client_documentation": "https://github.com/googleapis/google-api-python-client/tree/main/docs#google-api-client-library-for-python-docs",
     "issue_tracker": "https://github.com/googleapis/google-api-python-client/issues",
     "release_level": "stable",
